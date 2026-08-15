@@ -1,1 +1,0 @@
-A C++ command-line tool designed to simulate a human evaluation workflow for AI-generated responses. The application scores responses across predefined quality criteria and generates an overall evaluation score.
